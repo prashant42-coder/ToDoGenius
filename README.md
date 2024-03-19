@@ -20,7 +20,7 @@ ToDoGenius is a lightweight todo application built using Spring Boot and H2 data
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ToDoGenius.git
+git clone https://github.com/prashant42-coder/ToDoGenius.git
 
 2. Navigate to the project directory:
 
